@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "conta-app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
